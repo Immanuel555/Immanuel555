@@ -46,8 +46,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immanuel555&show_icons=true&locale=en&layout=compact" alt="immanuel555" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immanuel555&show_icons=true&locale=en" alt="immanuel555" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immanuel555&" alt="immanuel555" /></p>
